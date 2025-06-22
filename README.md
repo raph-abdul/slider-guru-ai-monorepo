@@ -1,3 +1,3 @@
 ## slider.guru
 
-The link to Slider AI tool set.
+> Slider is open-souce and it will always.be.com
